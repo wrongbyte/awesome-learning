@@ -1,4 +1,7 @@
+![image](https://github.com/wrongbyte/awesome-learning/assets/57643375/049a9ed5-ebcd-4c99-876c-5bcefc8dbb9b)
 # Awesome Learning
+
+
 
 [![Awesome](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/_static/awesome.png)](https://github.com/sindresorhus/awesome)
 
