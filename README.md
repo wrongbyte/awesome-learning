@@ -47,7 +47,7 @@ This is a list of resources, articles and techniques for optimizing the process 
 - 📚 [Incremental reading - introduction by SuperMemo](https://web.archive.org/web/20201109033710/https://www.supermemo.com/en/archives1990-2015/help/read)
 ### Mnemonics
 - 📚 [How can we develop transformative tools for thought? ](https://numinous.productions/ttft/)
-- :computer: [Wanikani](https://www.wanikani.com/) - a software to learn Kanji that relies on mnemonics
+- :computer: [Wanikani - a software to learn Kanji that relies on mnemonics](https://www.wanikani.com/) 
 ## Knowledge systems
 TODO
 ### Zettelkasten
