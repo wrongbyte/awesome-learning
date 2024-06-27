@@ -11,6 +11,7 @@ This is a list of resources, articles and techniques for optimizing the process 
 
 ## Table of contents
 
+- [Miscellaneous](#miscellaneous)
 - [Techniques and methods](#techniques-and-methods)
   - [Spaced repetition](#spaced-repetition)
   - [Incremental reading](#incremental-reading)
@@ -19,8 +20,10 @@ This is a list of resources, articles and techniques for optimizing the process 
 
 --------------------
 
+## Miscellaneous
 ## Techniques and methods
 ### Spaced repetition
+- [Augmenting Long-term Memory](http://augmentingcognition.com/ltm.html)
 TODO
 ### Incremental reading
 TODO
