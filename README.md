@@ -27,7 +27,7 @@ This is a list of resources, articles and techniques for optimizing the process 
 - 💻 [Dual n-back](https://brainscale.net/app/dual-n-back)
 - 📚 [Dual n-back FAQ](https://gwern.net/dnb-faq)
 - 📚 [Dual n-back meta-analysis](https://gwern.net/dnb-meta-analysis)
-- 📚 [The roots of creativity and genius](https://web.archive.org/web/20220926180420/https://www.supermemo.com/en/archives1990-2015/articles/genius)
+- 📚 [The roots of creativity and genius](https://web.archive.org/web/20210120040335/https://www.supermemo.com/en/archives1990-2015/articles/genius)
 
 ## Techniques and methods
 ### Spaced repetition
