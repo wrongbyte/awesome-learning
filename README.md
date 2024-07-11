@@ -25,6 +25,7 @@ This is a list of resources, articles and techniques for optimizing the process 
 
 ## Miscellaneous
 - 💻 [Dual n-back](https://brainscale.net/app/dual-n-back)
+- 📚 [Augmenting Human Intellect: A Conceptual Framework](https://dougengelbart.org/pubs/augment-3906.html)
 - 📚 [Dual n-back FAQ](https://gwern.net/dnb-faq)
 - 📚 [Dual n-back meta-analysis](https://gwern.net/dnb-meta-analysis)
 - 📚 [The roots of creativity and genius](https://web.archive.org/web/20210120040335/https://www.supermemo.com/en/archives1990-2015/articles/genius)
@@ -48,8 +49,8 @@ This is a list of resources, articles and techniques for optimizing the process 
 ### Incremental reading
 - 📚 [Incremental reading - introduction by SuperMemo](https://web.archive.org/web/20201109033710/https://www.supermemo.com/en/archives1990-2015/help/read)
 ### Mnemonics
+- 💻 [Wanikani - a software to learn Kanji that relies on mnemonics](https://www.wanikani.com/) 
 - 📚 [How can we develop transformative tools for thought? ](https://numinous.productions/ttft/)
-- :computer: [Wanikani - a software to learn Kanji that relies on mnemonics](https://www.wanikani.com/) 
 ## Knowledge systems
 TODO
 ### Zettelkasten
