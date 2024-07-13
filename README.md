@@ -35,6 +35,7 @@ This is a list of resources, articles and techniques for optimizing the process 
 ## Techniques and methods
 ### Spaced repetition
 - 💻 [Anki - the most popular software for spaced repetition](https://ankiweb.net/)
+- 💻 [Readwise - spaced repetition for book highlights](https://readwise.io/)
 - 💻 [Chessable - spaced repetition software focused on chess](https://www.chessable.com/)
 - 📚 [Strategies, Tips, and Tricks for Anki](https://senrigan.io/blog/everything-i-know-strategies-tips-and-tricks-for-spaced-repetition-anki)
 - 📚 [Did Ebbinghaus invent spaced repetition?](https://www.supermemo.com/en/blog/did-ebbinghaus-invent-spaced-repetition)
