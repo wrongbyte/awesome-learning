@@ -18,6 +18,7 @@ This is a list of resources, articles and techniques for optimizing the process 
   - [Spaced repetition](#spaced-repetition)
   - [Incremental reading](#incremental-reading)
   - [Mnemonics](#mnemonics)
+  - [Cloze](#cloze)
 - [Knowledge systems](#knowledge-systems)
   - [Zettelkasten](#zettelkasten)
 
@@ -52,6 +53,9 @@ This is a list of resources, articles and techniques for optimizing the process 
 ### Mnemonics
 - 💻 [Wanikani - a software to learn Kanji that relies on mnemonics](https://www.wanikani.com/) 
 - 📚 [How can we develop transformative tools for thought? ](https://numinous.productions/ttft/)
+### Cloze
+- 💻 [Clozemaster - learn languages using cloze](https://www.clozemaster.com/)
+- 📚 [Cloze Procedure in the Teaching of Reading](https://files.eric.ed.gov/fulltext/EJ387352.pdf)
 ## Knowledge systems
 TODO
 ### Zettelkasten
