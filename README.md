@@ -38,6 +38,7 @@ This is a list of resources, articles and techniques for optimizing the process 
 - 💻 [Anki - the most popular software for spaced repetition](https://ankiweb.net/)
 - 💻 [Readwise - spaced repetition for book highlights](https://readwise.io/)
 - 💻 [Chessable - spaced repetition software focused on chess](https://www.chessable.com/)
+- 💻 [Mochi Cards](https://mochi.cards)
 - 📚 [Strategies, Tips, and Tricks for Anki](https://senrigan.io/blog/everything-i-know-strategies-tips-and-tricks-for-spaced-repetition-anki)
 - 📚 [Did Ebbinghaus invent spaced repetition?](https://www.supermemo.com/en/blog/did-ebbinghaus-invent-spaced-repetition)
 - 📚 [True history of spaced repetition](https://web.archive.org/web/20221002121044/https://www.supermemo.com/en/articles/history)
@@ -46,7 +47,7 @@ This is a list of resources, articles and techniques for optimizing the process 
 - 📚 [Spaced repetition for efficient learning](https://gwern.net/spaced-repetition)
 - 📚 [Augmenting Long-term Memory](http://augmentingcognition.com/ltm.html)
 - 📚 [Comparison between Anki and Supermemo](https://www.masterhowtolearn.com/2018-11-11-my-comparison-between-anki-and-supermemo/?utm_source=pocket_list)
-
+- 📚 [Spaced Repetition for Mathematics](https://cronokirby.com/posts/2021/02/spaced-repetition-for-mathematics)
   
 ### Incremental reading
 - 📚 [Incremental reading - introduction by SuperMemo](https://web.archive.org/web/20201109033710/https://www.supermemo.com/en/archives1990-2015/help/read)
