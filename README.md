@@ -39,6 +39,7 @@ This is a list of resources, articles and techniques for optimizing the process 
 - 💻 [Readwise - spaced repetition for book highlights](https://readwise.io/)
 - 💻 [Chessable - spaced repetition software focused on chess](https://www.chessable.com/)
 - 💻 [Mochi Cards](https://mochi.cards)
+- 📚 [Description of a spaced repetition algorithm](https://github.com/open-spaced-repetition/fsrs4anki/wiki/The-Optimal-Retention)
 - 📚 [Strategies, Tips, and Tricks for Anki](https://senrigan.io/blog/everything-i-know-strategies-tips-and-tricks-for-spaced-repetition-anki)
 - 📚 [Did Ebbinghaus invent spaced repetition?](https://www.supermemo.com/en/blog/did-ebbinghaus-invent-spaced-repetition)
 - 📚 [True history of spaced repetition](https://web.archive.org/web/20221002121044/https://www.supermemo.com/en/articles/history)
