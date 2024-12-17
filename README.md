@@ -32,6 +32,7 @@ This is a list of resources, articles and techniques for optimizing the process 
 - 📚 [The roots of creativity and genius](https://web.archive.org/web/20210120040335/https://www.supermemo.com/en/archives1990-2015/articles/genius)
 - 📚 [Knowledge how](https://plato.stanford.edu/entries/knowledge-how/)
 - 📚 [Introduction to epistemology](https://plato.stanford.edu/ENTRIES/epistemology/)
+- :books: [Learning How to Learn (And 20+ Studies)](https://www.lesswrong.com/posts/BzxbZqWoP9DRrznFi/learning-how-to-learn-and-20-studies)
 
 ## Techniques and methods
 ### Spaced repetition
