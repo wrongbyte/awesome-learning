@@ -14,6 +14,7 @@ This is a list of resources, articles and techniques for optimizing the process 
 ## Table of contents
 
 - [Miscellaneous](#miscellaneous)
+- [Wikis and sites](#wikis-and-sites)
 - [Techniques and methods](#techniques-and-methods)
   - [Spaced repetition](#spaced-repetition)
   - [Incremental reading](#incremental-reading)
@@ -33,6 +34,11 @@ This is a list of resources, articles and techniques for optimizing the process 
 - 📚 [Knowledge how](https://plato.stanford.edu/entries/knowledge-how/)
 - 📚 [Introduction to epistemology](https://plato.stanford.edu/ENTRIES/epistemology/)
 - :books: [Learning How to Learn (And 20+ Studies)](https://www.lesswrong.com/posts/BzxbZqWoP9DRrznFi/learning-how-to-learn-and-20-studies)
+
+## Wikis and sites
+Good places to find articles and resources about learning and cognition
+- [Supermemo wiki](https://supermemo.guru/wiki/SuperMemo_Guru)
+- [LessWrong](https://www.lesswrong.com/)
 
 ## Techniques and methods
 ### Spaced repetition
